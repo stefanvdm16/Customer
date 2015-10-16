@@ -1,0 +1,72 @@
+c:\users\stefan\documents\visual studio 2015\Projects\ProjectCF\Customer\bin\roslyn\csc.exe
+c:\users\stefan\documents\visual studio 2015\Projects\ProjectCF\Customer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\stefan\documents\visual studio 2015\Projects\ProjectCF\Customer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\stefan\documents\visual studio 2015\Projects\ProjectCF\Customer\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\stefan\documents\visual studio 2015\Projects\ProjectCF\Customer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\stefan\documents\visual studio 2015\Projects\ProjectCF\Customer\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\stefan\documents\visual studio 2015\Projects\ProjectCF\Customer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\stefan\documents\visual studio 2015\Projects\ProjectCF\Customer\bin\roslyn\System.Collections.Immutable.dll
+c:\users\stefan\documents\visual studio 2015\Projects\ProjectCF\Customer\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\stefan\documents\visual studio 2015\Projects\ProjectCF\Customer\bin\roslyn\vbc.exe
+c:\users\stefan\documents\visual studio 2015\Projects\ProjectCF\Customer\bin\roslyn\VBCSCompiler.exe
+c:\users\stefan\documents\visual studio 2015\Projects\ProjectCF\Customer\bin\roslyn\VBCSCompiler.exe.config
+c:\users\stefan\documents\visual studio 2015\Projects\ProjectCF\Customer\bin\Customer.dll.config
+c:\users\stefan\documents\visual studio 2015\Projects\ProjectCF\Customer\bin\Customer.dll
+c:\users\stefan\documents\visual studio 2015\Projects\ProjectCF\Customer\bin\Customer.pdb
+c:\users\stefan\documents\visual studio 2015\Projects\ProjectCF\Customer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\stefan\documents\visual studio 2015\Projects\ProjectCF\Customer\bin\Microsoft.Web.Infrastructure.dll
+c:\users\stefan\documents\visual studio 2015\Projects\ProjectCF\Customer\bin\System.Web.Helpers.dll
+c:\users\stefan\documents\visual studio 2015\Projects\ProjectCF\Customer\bin\System.Web.Mvc.dll
+c:\users\stefan\documents\visual studio 2015\Projects\ProjectCF\Customer\bin\System.Web.Razor.dll
+c:\users\stefan\documents\visual studio 2015\Projects\ProjectCF\Customer\bin\System.Web.Webpages.Deployment.dll
+c:\users\stefan\documents\visual studio 2015\Projects\ProjectCF\Customer\bin\System.Web.Webpages.dll
+c:\users\stefan\documents\visual studio 2015\Projects\ProjectCF\Customer\bin\System.Web.Webpages.Razor.dll
+c:\users\stefan\documents\visual studio 2015\Projects\ProjectCF\Customer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\stefan\documents\visual studio 2015\Projects\ProjectCF\Customer\bin\System.Web.Razor.xml
+c:\users\stefan\documents\visual studio 2015\Projects\ProjectCF\Customer\bin\System.Web.Webpages.xml
+c:\users\stefan\documents\visual studio 2015\Projects\ProjectCF\Customer\bin\System.Web.Webpages.Deployment.xml
+c:\users\stefan\documents\visual studio 2015\Projects\ProjectCF\Customer\bin\System.Web.Webpages.Razor.xml
+c:\users\stefan\documents\visual studio 2015\Projects\ProjectCF\Customer\bin\System.Web.Helpers.xml
+c:\users\stefan\documents\visual studio 2015\Projects\ProjectCF\Customer\bin\System.Web.Mvc.xml
+c:\users\stefan\documents\visual studio 2015\Projects\ProjectCF\Customer\obj\Debug\Customer.csprojResolveAssemblyReference.cache
+c:\users\stefan\documents\visual studio 2015\Projects\ProjectCF\Customer\obj\Debug\Customer.dll
+c:\users\stefan\documents\visual studio 2015\Projects\ProjectCF\Customer\obj\Debug\Customer.pdb
+c:\users\stefan\documents\visual studio 2015\Projects\ProjectCF\Customer\bin\WcfCustomersVB.dll
+c:\users\stefan\documents\visual studio 2015\Projects\ProjectCF\Customer\bin\WcfCustomersVB.pdb
+c:\users\stefan\documents\visual studio 2015\Projects\ProjectCF\Customer\bin\WcfCustomersVB.xml
+D:\Development\ProjectCF\ProjectCF Solution\Customer\bin\roslyn\csc.exe
+D:\Development\ProjectCF\ProjectCF Solution\Customer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Development\ProjectCF\ProjectCF Solution\Customer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Development\ProjectCF\ProjectCF Solution\Customer\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Development\ProjectCF\ProjectCF Solution\Customer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Development\ProjectCF\ProjectCF Solution\Customer\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Development\ProjectCF\ProjectCF Solution\Customer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Development\ProjectCF\ProjectCF Solution\Customer\bin\roslyn\System.Collections.Immutable.dll
+D:\Development\ProjectCF\ProjectCF Solution\Customer\bin\roslyn\System.Reflection.Metadata.dll
+D:\Development\ProjectCF\ProjectCF Solution\Customer\bin\roslyn\vbc.exe
+D:\Development\ProjectCF\ProjectCF Solution\Customer\bin\roslyn\VBCSCompiler.exe
+D:\Development\ProjectCF\ProjectCF Solution\Customer\bin\roslyn\VBCSCompiler.exe.config
+D:\Development\ProjectCF\ProjectCF Solution\Customer\bin\Customer.dll.config
+D:\Development\ProjectCF\ProjectCF Solution\Customer\bin\Customer.dll
+D:\Development\ProjectCF\ProjectCF Solution\Customer\bin\Customer.pdb
+D:\Development\ProjectCF\ProjectCF Solution\Customer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Development\ProjectCF\ProjectCF Solution\Customer\bin\Microsoft.Web.Infrastructure.dll
+D:\Development\ProjectCF\ProjectCF Solution\Customer\bin\System.Web.Helpers.dll
+D:\Development\ProjectCF\ProjectCF Solution\Customer\bin\System.Web.Mvc.dll
+D:\Development\ProjectCF\ProjectCF Solution\Customer\bin\System.Web.Razor.dll
+D:\Development\ProjectCF\ProjectCF Solution\Customer\bin\System.Web.Webpages.Deployment.dll
+D:\Development\ProjectCF\ProjectCF Solution\Customer\bin\System.Web.Webpages.dll
+D:\Development\ProjectCF\ProjectCF Solution\Customer\bin\System.Web.Webpages.Razor.dll
+D:\Development\ProjectCF\ProjectCF Solution\Customer\bin\WcfCustomersVB.dll
+D:\Development\ProjectCF\ProjectCF Solution\Customer\bin\WcfCustomersVB.pdb
+D:\Development\ProjectCF\ProjectCF Solution\Customer\bin\WcfCustomersVB.xml
+D:\Development\ProjectCF\ProjectCF Solution\Customer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Development\ProjectCF\ProjectCF Solution\Customer\bin\System.Web.Razor.xml
+D:\Development\ProjectCF\ProjectCF Solution\Customer\bin\System.Web.Webpages.xml
+D:\Development\ProjectCF\ProjectCF Solution\Customer\bin\System.Web.Webpages.Deployment.xml
+D:\Development\ProjectCF\ProjectCF Solution\Customer\bin\System.Web.Webpages.Razor.xml
+D:\Development\ProjectCF\ProjectCF Solution\Customer\bin\System.Web.Helpers.xml
+D:\Development\ProjectCF\ProjectCF Solution\Customer\bin\System.Web.Mvc.xml
+D:\Development\ProjectCF\ProjectCF Solution\Customer\obj\Debug\Customer.csprojResolveAssemblyReference.cache
+D:\Development\ProjectCF\ProjectCF Solution\Customer\obj\Debug\Customer.dll
+D:\Development\ProjectCF\ProjectCF Solution\Customer\obj\Debug\Customer.pdb

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WcfCustomersVB
+</name>
+</assembly>
+<members>
+<member name="M:WcfCustomersVB.SQLHelper.PopulateObject(System.Object,System.Data.DataTable)">
+ <summary>
+ The Names Of The Columns Must Match The Names Of The Properties
+ </summary>
+ <param name="myObject"></param>
+ <param name="myData"></param>
+ <remarks></remarks>
+</member>
+<member name="M:WcfCustomersVB.SQLHelper.PopulateObject(System.Object,System.Data.DataRow)">
+ <summary>
+ The Names Of The Columns Must Match The Names Of The Properties
+ </summary>
+ <param name="myObject"></param>
+ <param name="myData"></param>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

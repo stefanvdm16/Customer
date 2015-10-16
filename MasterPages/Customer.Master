@@ -1,0 +1,28 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Customer.master.cs" Inherits="Customer.MasterPages.Customer" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <link rel="stylesheet" href="~/Content/ProjectCF.css" type="text/css" />
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <div style="width:200px; float:left;">
+            <ul>
+                <li><a href="~/Customer/Default.aspx" runat="server">Customer Home</a></li>
+            </ul>
+
+        </div>
+        <div style="width:750px; float:left;">
+            <asp:ContentPlaceHolder ID="cusMainContent" runat="server">        
+            </asp:ContentPlaceHolder>
+        </div>        
+    </div>
+    </form>
+</body>
+</html>
